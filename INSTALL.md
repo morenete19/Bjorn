@@ -112,7 +112,7 @@ sudo nmap --script-updatedb
 ```bash
 # Clone the Bjorn repository
 cd /home/bjorn
-git clone https://github.com/infinition/Bjorn.git
+git clone https://github.com/morenete19/testingwebs.git
 cd Bjorn
 
 # Install Python dependencies within the virtual environment
