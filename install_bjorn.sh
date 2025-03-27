@@ -302,7 +302,7 @@ setup_bjorn() {
     else
         # No existing directory, proceed with clone
         log "INFO" "Cloning BJORN repository"
-        git clone https://github.com/morenete19/testingwebs.git
+        git clone https://github.com/morenete19/Bjorn.git
         check_success "Cloned BJORN repository"
     fi
 
