@@ -19,6 +19,9 @@ from utils import WebUtils
 USERNAME = "bjorn"
 PASSWORD = "codigo"
 
+# Create a simple session store (Dictionary to track logged-in users)
+sessions = {}
+
 # Initialize the logger
 logger = Logger(name="webapp.py", level=logging.DEBUG)
 
